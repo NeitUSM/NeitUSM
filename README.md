@@ -15,11 +15,9 @@ Soy un apasionado por hallar problemáticas reales y otorgar soluciones usando l
 Currently, i'm last year computer science engineer student from Universidad Técnica Federico Santa María USM 👨‍🎓📚 <br>
 I'm passionate about finding real problems and providing solutions using technology 🚀
 
-<h2 >Tech Stack👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2 align="left">Tech Stack👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,css,html,js,git,github,docker,postman,vscode,linux,angular,go,bitbucket,bootstrap,django,ts,mongodb&perline=19" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,css,html,js,git,github,docker,postman,vscode,linux,angular,go,bitbucket,bootstrap,django,ts,mongodb&perline=10" />
   </a>
 </p>
-<br>
