@@ -1,8 +1,8 @@
 <h1 align="center">
-  📚🚀¡Hola! Soy Natán Apablaza 📚🚀  
+  ¡Hola! Soy Natán Apablaza 📚🚀  
 </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=700&pause=1000&color=07A7FF&center=true&vCenter=true&width=435&lines=Ingeniero+en+Inform%C3%A1tica;Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=700&pause=1000&color=2493F7&center=true&vCenter=true&width=435&lines=Ingenier%C3%ADa+en+Inform%C3%A1tica;Site+Reliability+Engineering;Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <h2>‍About me 💻</h2>
@@ -16,8 +16,8 @@ Currently, i'm last year computer science engineer student from Universidad Téc
 I'm passionate about finding real problems and providing solutions using technology 🚀
 
 <h2 align="left">Tech Stack👨🏻‍💻</h2>
-<p align="left">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,css,html,js,git,github,docker,postman,vscode,linux,angular,go,bitbucket,bootstrap,django,ts,mongodb&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,py,cpp,go,java,js,ts,html,css,bootstrap,postman,git,github,bitbucket,django,angular,react,mongodb,mysql,flutter,dart,docker,kubernetes,prometheus,grafana,jenkins,aws&perline=10" />
   </a>
 </p>
