@@ -18,6 +18,6 @@ I'm passionate about finding real problems and providing solutions using technol
 <h2 align="left">Tech Stack👨🏻‍💻</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,cpp,go,java,js,ts,html,css,bootstrap,postman,git,github,bitbucket,django,angular,react,mongodb,mysql,flutter,dart,docker,kubernetes,prometheus,grafana,jenkins,aws&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,py,cpp,go,java,dart,js,ts,html,css,bootstrap,postman,git,github,bitbucket,express,django,angular,react,mongodb,mysql,flutter,docker,kubernetes,prometheus,grafana,jenkins,aws&perline=10" />
   </a>
 </p>
