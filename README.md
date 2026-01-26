@@ -8,12 +8,12 @@
 <h2>‍About me 💻</h2>
 
 <img alt="Night Coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" align="right" style="width:400px; height: 250px"/>
-Actualmente, soy estudiante de último año de Ingeniería en Informática de la Universidad Técnica Federico Santa María USM 👨‍🎓📚 <br>
-Soy un apasionado por hallar problemáticas reales y otorgar soluciones usando la tecnología 🚀
+Ingeniero Informático de la Universidad Técnica Federico Santa María USM 👨‍🎓📚 <br>
+Me apasiona atender problemáticas reales y otorgar soluciones usando la tecnología 🚀
 <br>
 <br>
-Currently, i'm last year computer science engineer student from Universidad Técnica Federico Santa María USM 👨‍🎓📚 <br>
-I'm passionate about finding real problems and providing solutions using technology 🚀
+Computer Science Engineer from Universidad Técnica Federico Santa María USM 👨‍🎓📚 <br>
+I'm passionate about addressing real problems and providing solutions using technology 🚀
 
 <h2 align="left">Tech Stack👨🏻‍💻</h2>
 <p>
